@@ -1,8 +1,8 @@
 ### Yo
-I am a software developer. Interested in backend and system development. Love simplisity. Hate unnecessary complexity and absolute DRY.
+I am a software developer. Interested in backend and system development. Love simplisity. Hate unnecessary complexity~3~ and absolute DRY^2^.
 
 <!--
-**tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub~3~ profile^2^.
+**tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
