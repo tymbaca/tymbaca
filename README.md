@@ -2,7 +2,7 @@
 I am a software developer. Interested in backend and system development. Love simplisity. Hate unnecessary complexity and absolute DRY.
 
 <!--
-**tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub~3~ profile^2^.
 
 Here are some ideas to get you started:
 
