@@ -1,6 +1,9 @@
-### Yo
-I am a software developer. Interested in backend and system development. Love simplisity. Hate unnecessary complexity and absolute DRY.
+### Hello
+I am a software engineer. Interested in backend and 
+system (utility) development. Love simplisity. Hate 
+unnecessary complexity and absolute DRY.
 
+I love good toolings and tiramisu.
 <!--
 **tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
