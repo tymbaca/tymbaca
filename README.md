@@ -1,9 +1,9 @@
-### Hello
+### Hello there!
 I am a software engineer. Interested in backend and 
 system (utility) development. Love simplisity. Hate 
 unnecessary complexity and absolute DRY.
 
-I love good toolings and tiramisu.
+I'm using Golang, Python. Love low-level programming languages. Love to be close to CPU... Also love good toolings and tiramisu.
 <!--
 **tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
