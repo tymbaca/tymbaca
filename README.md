@@ -1,9 +1,4 @@
-### Hello there!
-I am a software engineer. Interested in backend and 
-system (utility) development. Love simplisity. Hate 
-unnecessary complexity and DRY.
-
-I use golang. Love low-level programming languages (odin 💅🏻). Love to be close to CPU... Also love good tooling and tiramisu.
+Love low-level programming languages (odin 💅🏻)
 <!--
 **tymbaca/tymbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
