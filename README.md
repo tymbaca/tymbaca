@@ -1,1 +1,1 @@
-Love low-level (odin 💅🏻) and network programming.
+I love low-level (odin 💅🏻) and network programming.
